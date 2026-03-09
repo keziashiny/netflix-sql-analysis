@@ -47,7 +47,7 @@ SELECT type, COUNT(*) AS total_titles
 FROM NETFLIX_DB.PUBLIC.NETFLIX_TITLES
 GROUP BY type;
 
-##Project Structure
+roject Structure
 netflix-sql-analysis
 │
 ├── netflix_analysis.sql
@@ -60,3 +60,4 @@ MS Information Technology – Data Analytics
 George Mason University
 
 GitHub: https://github.com/keziashiny
+
